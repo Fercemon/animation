@@ -24,7 +24,7 @@ h1{
 }
 
 #scene{
-    margin: 8em 0 5em 0;
+    margin: 6em 0 5em 0;
 }
 
 #mario{
@@ -44,6 +44,10 @@ h1{
 }
 
 .buttons{
+    text-align: center;
+}
+
+#audioControl{
     text-align: center;
 }
 
